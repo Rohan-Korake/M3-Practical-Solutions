@@ -32,7 +32,13 @@ python3 fileName.py
 
 ## Practicals List
 
-| Sr. No. | Program Name | Description                                          | Source Link                 |
-| :-----: | :----------- | :--------------------------------------------------- | :-------------------------- |
-|   01    | Hello Python | Simple program to print hello message                | [View Code](basic/hello.py) |
-|   02    | Hello Greet  | Simple program to input name and print hello message | [View Code](basic/greet.py) |
+| Sr. No. | Program Name          | Description                                          | Source Link                                        |
+| :-----: | :-------------------- | :--------------------------------------------------- | :------------------------------------------------- |
+|   01    | Hello Python          | Simple program to print hello message                | [View Code](basic/hello.py)                        |
+|   02    | Hello Greet           | Simple program to input name and print hello message | [View Code](basic/greet.py)                        |
+|   03    | Matrix Addition       | Simple program to perform Matrix Addition            | [View Code](linearAlgebra/matrixAddition.py)       |
+|   04    | Matrix Subtraction    | Simple program to perform Matrix Subtraction         | [View Code](linearAlgebra/matrixSubtraction.py)    |
+|   05    | Matrix Multiplication | Simple program to perform Matrix Multiplication      | [View Code](linearAlgebra/matrixMultiplication.py) |
+|   06    | Scalar Addition       | Simple program to perform Scalar Addition            | [View Code](linearAlgebra/matrixAddition.py)       |
+|   07    | Scalar Subtraction    | Simple program to perform Scalar Subtraction         | [View Code](linearAlgebra/matrixSubtraction.py)    |
+|   08    | Scalar Multiplication | Simple program to perform Scalar Multiplication      | [View Code](linearAlgebra/matrixMultiplication.py) |
