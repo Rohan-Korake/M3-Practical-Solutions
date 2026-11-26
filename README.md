@@ -32,6 +32,7 @@ python3 fileName.py
 
 ## Practicals List
 
-| Sr. No. | Program Name | Description                           | Source Link                 |
-| :-----: | :----------- | :------------------------------------ | :-------------------------- |
-|   01    | Hello Python | Simple program to print hello message | [View Code](basic/hello.py) |
+| Sr. No. | Program Name | Description                                          | Source Link                 |
+| :-----: | :----------- | :--------------------------------------------------- | :-------------------------- |
+|   01    | Hello Python | Simple program to print hello message                | [View Code](basic/hello.py) |
+|   02    | Hello Greet  | Simple program to input name and print hello message | [View Code](basic/greet.py) |
