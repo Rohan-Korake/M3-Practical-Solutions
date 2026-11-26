@@ -42,3 +42,5 @@ python3 fileName.py
 |   06    | Scalar Addition       | Simple program to perform Scalar Addition            | [View Code](linearAlgebra/matrixAddition.py)       |
 |   07    | Scalar Subtraction    | Simple program to perform Scalar Subtraction         | [View Code](linearAlgebra/matrixSubtraction.py)    |
 |   08    | Scalar Multiplication | Simple program to perform Scalar Multiplication      | [View Code](linearAlgebra/matrixMultiplication.py) |
+|   09    | Eigen Values          | Simple program to find Eigen Values                  | [View Code](linearAlgebra/eigenvalues.py)          |
+|   10    | Eigen Vectors         | Simple program to find Eigen Vectors                 | [View Code](linearAlgebra/eigenVector.py)          |
