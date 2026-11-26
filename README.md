@@ -44,3 +44,4 @@ python3 fileName.py
 |   08    | Scalar Multiplication | Simple program to perform Scalar Multiplication      | [View Code](linearAlgebra/matrixMultiplication.py) |
 |   09    | Eigen Values          | Simple program to find Eigen Values                  | [View Code](linearAlgebra/eigenvalues.py)          |
 |   10    | Eigen Vectors         | Simple program to find Eigen Vectors                 | [View Code](linearAlgebra/eigenVector.py)          |
+|   11    | Diagonalization       | Simple program to display Diagonalization            | [View Code](linearAlgebra/diagonalization.py)      |
