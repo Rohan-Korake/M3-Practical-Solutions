@@ -45,3 +45,5 @@ python3 fileName.py
 |   09    | Eigen Values          | Simple program to find Eigen Values                  | [View Code](linearAlgebra/eigenvalues.py)          |
 |   10    | Eigen Vectors         | Simple program to find Eigen Vectors                 | [View Code](linearAlgebra/eigenVector.py)          |
 |   11    | Diagonalization       | Simple program to display Diagonalization            | [View Code](linearAlgebra/diagonalization.py)      |
+|   12    | Binomial Distribution | Simple program to display Binomial Distribution      | [View Code](probabilityDistributions/binomial.py)  |
+|   13    | Normal Distribution   | Simple program to display Normal Distribution        | [View Code](probabilityDistributions/normal.py)    |
